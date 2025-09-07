@@ -33,4 +33,4 @@ Custom configuration for [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ## Screenshots
 
-![Mint Fastfetch Example](mint.png)
+<img width="1054" height="483" alt="2025-09-07_21-32" src="https://github.com/user-attachments/assets/e505f986-d5ab-4e7f-8ba7-fd2162583343" />
